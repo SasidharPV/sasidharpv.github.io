@@ -1,6 +1,6 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "AZ-400",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
     "category": "android",
@@ -70,13 +70,13 @@
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "React-Certifications",
+    "desc": "Full-Stack project dashboard which is collection of Certifications built on the React library.",
+    "image": "reactCertifications",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://reactjsCertifications.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Certifications"
     }
   },
   {
@@ -90,13 +90,13 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "JavaScript Certifications Website",
+    "desc": "This website is specially build to showcase all major javaScript Certifications. All my javaScript based Certifications are in it.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://jigar-sable.github.io/JavaScript-Certifications",
+      "code": "https://github.com/jigar-sable/JavaScript-Certifications"
     }
   },
   {
@@ -116,7 +116,7 @@
     "category": "mern",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "code": "https://github.com/jigar-sable/React-Certifications/tree/main/crypto-tracker"
     }
   },
   {
@@ -126,7 +126,7 @@
     "category": "mern",
     "links": {
       "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "code": "https://github.com/jigar-sable/React-Certifications/tree/main/hulu-clone"
     }
   },
   {
@@ -235,18 +235,18 @@
     "image": "issuetrack",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+      "view": "https://jigar-sable.github.io/JavaScript-Certifications/Certifications/issuetracker",
+      "code": "https://github.com/jigar-sable/JavaScript-Certifications/tree/main/Certifications/issuetracker"
     }
   },
   {
     "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
+    "desc": "A simple portal in which students can submit their PBL Certifications and faculties can view by access admin panel.",
     "image": "phppblform",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+      "view": "https://github.com/jigar-sable/PHP-Certifications/tree/main/pblform#pbl-portal",
+      "code": "https://github.com/jigar-sable/PHP-Certifications/tree/main/pblform"
     }
   },
   {
@@ -265,8 +265,8 @@
     "image": "saas",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+      "view": "https://jigar-sable.github.io/JavaScript-Certifications/api-Certifications/saas-jobs",
+      "code": "https://github.com/jigar-sable/JavaScript-Certifications/tree/main/api-Certifications/saas-jobs"
     }
   },
   {
