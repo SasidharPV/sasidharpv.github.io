@@ -1223,3 +1223,110 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+/* carousel styles start */
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 1800px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.carousel-container {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.carousel-slide {
+  display: flex;
+}
+
+.carousel-slide img {
+  width: 100%;
+  max-width: 800px;
+}
+
+.carousel-prev, .carousel-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.carousel-prev {
+  left: 10px;
+}
+
+.carousel-next {
+  right: 10px;
+}
+/* carousel styles end */
+
+/* certifications section start */
+.certifications {
+  background: #f7f7f7;
+  padding: 4rem 0;
+}
+
+.certifications .heading {
+  font-size: 3.5rem;
+  color: #333;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.certifications .heading span {
+  color: #ff7b00;
+}
+
+.certifications .qoute {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.certifications .carousel {
+  position: relative;
+  width: 100%;
+  max-width: 1800px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.certifications .carousel-container {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.certifications .carousel-slide img {
+  width: 200%;
+  max-width: 800px;
+}
+
+.certifications .carousel-prev, .certifications .carousel-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.certifications .carousel-prev {
+  left: 10px;
+}
+
+.certifications .carousel-next {
+  right: 10px;
+}
+/* certifications section end */
