@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Sasidhar Pendyala";
+            document.title = "DevOps Specialist | Portfolio Sasidhar Pendyala";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
